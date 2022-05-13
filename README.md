@@ -1,3 +1,3 @@
 # MIXRT
 
-code currently under review. wll be released as soon as possible.
+code currently under review. will be released as soon as possible.
