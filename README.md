@@ -2,5 +2,4 @@
 
 Please adjust the parameters and run *run.sh*.
 
-The code will be improved as soon as possible. 
-
+The complete code and documentation will be released as soon as possible.
