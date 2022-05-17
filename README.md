@@ -1,3 +1,6 @@
 # MIXRTs
 
-code currently under review. will be released as soon as possible.
+Please adjust the parameters and run *run.sh*.
+
+The code will be improved as soon as possible. 
+
